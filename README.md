@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @summerfences
-- 👀 I’m interested in driving sims, cars(specifically Hondas, Lancias, Mazda RXs, and WRC), film photography, skramz, and computers
-- 🌱 I’m currently learning Python, Italian, and I'm looking to brush up on Spanish, C/C++ and MySQL
+- 👀 I’m interested in driving sims, cars(i.e. Honda, Toyota, Lancia), DSLR photography, and skramz
+- 🌱 I’m currently learning Python and Italian, while I'm also looking to brush up on Spanish, Java, C/C++ and MySQL.
 
 <!---
 summerfences/summerfences is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
