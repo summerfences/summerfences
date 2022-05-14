@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @summerfences
-- 👀 I’m interested in driving sims, cars(i.e. Honda, Toyota, Lancia), DSLR photography, and skramz
+- 👀 I’m interested in video games (i.e. driving sims and Deus Ex),cars(i.e. Honda, Toyota, Lancia), DSLR photography, and skramz
 - 🌱 I’m currently learning Python and Italian, while I'm also looking to brush up on Spanish, Java, C/C++ and MySQL.
 
 <!---
