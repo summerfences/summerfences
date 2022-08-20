@@ -1,4 +1,4 @@
-- 👋 Salve, I’m @summerfences! My name is Frank, but I go by a Roman name, Can. Iuventius Macer! 
+- 👋 Salve, I’m @summerfences! My name is Frank, but online I go by a Roman name, Can. Iuventius Macer! 
 - 👀 I’m interested in Programming (Particularly Python and C/C++), Ancient Rome, DSLR Photography, Hondas, and the skramz lyfe.
 - 🌱 I’m currently learning a few different Python Libraries like Django, Kivy, and Pygame. In university my coursework is written in Java, so I'm inevitably familiar with and learning aspects of Java libraries as a byproduct. MySQL is currently on the backburner, but I'd really like to "dust off" my years-past knowledge base in the near future. I also study Latin and Italian when I'm not working on programming concepts.
 
